@@ -1,0 +1,46 @@
+header{
+    text-align:center;
+}
+body{
+    background-color: aliceblue;
+}
+ul{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    overflow:hidden;
+    background-color:black
+}
+
+li{
+    text-align: center;
+    float: left;
+}
+
+li  a{
+display:block;
+color:white;
+text-align:center;
+padding: 18px 16px;
+text-decoration:none;
+}
+
+li a:hover{
+    background-color: gray;
+}
+
+img{
+    align-content:center;
+    width:80%;
+    height:10%;
+    border:solid;
+}
+
+
+.card{
+    background-color:white;
+    padding:20px;
+    margin-top:20px;
+    text-align:center;
+    border:solid;
+}
